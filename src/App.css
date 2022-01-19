@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+p{
+  text-align: left;
+}
+.thongtinnhavien{
+  margin-top: 10px;
+}
+h6{
+  text-align: left;
+}
+.menunhanvien{
+  margin-top: 10px;
+}
